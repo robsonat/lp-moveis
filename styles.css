@@ -31,6 +31,12 @@ span, a {
 
 }
 
+#balls {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+}
+
 p, footer {
   color: #7d7987;
   font-size: 14px;
